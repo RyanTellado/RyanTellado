@@ -8,7 +8,7 @@ CS + Econ at Stanford. I build applied systems at the intersection of software, 
   → [Demo](https://github.com/RyanTellado/MedicalApp-Showcase)
 
 - **Multimodal LLM Research (UCSC)**  
-  Fall detection using GPT-4o + LLaVA on edge devices; presented at NeurIPS 2024 workshop  
+  Fall detection using GPT-4o + LLaVA on edge devices; presented at NeurIPS 2024 workshop
   → Repo (coming soon)
 
 - **Stanford Meet Mutuals**  
