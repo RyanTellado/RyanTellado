@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi — I’m Ryan 👋  
+CS + Econ at Stanford. I build applied systems at the intersection of software, data, and real-world impact.
 
-<!--
-**RyanTellado/RyanTellado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Selected Projects**
+- **Medical Clinic Operations Platform**  
+  Android + Cloud Firestore system serving 500k+ patients across mobile clinics in India & South Sudan  
+  → repo / demo
 
-Here are some ideas to get you started:
+- **Multimodal LLM Research (UCSC)**  
+  Fall detection using GPT-4o + LLaVA on edge devices; presented at NeurIPS 2024 workshop  
+  → paper / write-up
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **ASES Mutuals (Stanford)**  
+  Production web platform for student networking; collaborated on product design and UI  
+  → live site / repo
+
+**Background**
+- Coca-Cola Scholar | HSF National Scholar  
+- Languages: Python, Java, C++
+
+Resume | LinkedIn
