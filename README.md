@@ -11,7 +11,7 @@ CS + Econ at Stanford. I build applied systems at the intersection of software, 
   Fall detection using GPT-4o + LLaVA on edge devices; presented at NeurIPS 2024 workshop  
   → Repo (coming soon)
 
-- **ASES Mutuals (Stanford)**  
+- **Stanford Meet Mutuals**  
   Production web platform for student networking; Built core UI components and collaborated on product design
   → [Live Site](https://www.meet-mutuals.com/) · Repo (to be finalized)
 
@@ -21,4 +21,4 @@ CS + Econ at Stanford. I build applied systems at the intersection of software, 
 - Coca-Cola Scholar | HSF National Scholar  
 
 
-  [Resume](https://drive.google.com/file/d/1215NTK_aYNsNskbBRMmIk4bgzNQBu-nT/view?usp=sharing) · [LinkedIn](https://www.linkedin.com/in/ryantellado)
+[Resume](https://drive.google.com/file/d/1215NTK_aYNsNskbBRMmIk4bgzNQBu-nT/view?usp=sharing) · [LinkedIn](https://www.linkedin.com/in/ryantellado)
