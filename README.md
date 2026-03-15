@@ -11,7 +11,7 @@ CS + Econ at Stanford. I build applied systems at the intersection of software, 
   Bayesian decision-support tool for rural health workers — Naive Bayes diagnosis + Beta-Bernoulli treatment estimator over 500k+ patient records  
   → [Live App](https://medical-probability-dashboard.streamlit.app) · [Repo](https://github.com/RyanTellado/parivaar-dx)
 
-- **Multimodal LLM Research (UCSC)**  
+- **Multimodal LLM Research (Information Retrieval & Knowledge Management Lab, UCSC)**  
   Fall detection using GPT-4o + LLaVA on edge devices; presented at NeurIPS 2024 workshop  
   → Repo (coming soon)
 
