@@ -1,4 +1,4 @@
-Hi — I’m Ryan 👋  
+Hi — I'm Ryan 👋  
 CS + Econ at Stanford. I build applied systems at the intersection of software, data, and real-world impact.
 
 ## Selected Projects
@@ -18,6 +18,10 @@ CS + Econ at Stanford. I build applied systems at the intersection of software, 
 - **Stanford Meet Mutuals**  
   Production web platform for student networking; Built core UI components and collaborated on product design  
   → [Live Site](https://www.meet-mutuals.com/) · Repo (to be finalized)
+
+- **OpsAI — AI Operations Analyst**  
+  Upload a CSV, get a one-page briefing with trends, anomaly flags (z-score), and grounded recommendations in ~45s. Every claim cites a DuckDB-computed statistic; the LLM writes prose, not numbers. Full-stack: FastAPI + React + Anthropic SDK.  
+  → [Repo](https://github.com/RyanTellado/opsai)
 
 ## Background
 
