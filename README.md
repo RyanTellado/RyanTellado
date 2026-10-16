@@ -9,7 +9,7 @@ CS + Econ at Stanford. I build applied systems at the intersection of software, 
 
 - **Probabilistic Clinical Dashboard**  
   Bayesian decision-support tool for rural health workers — Naive Bayes diagnosis + Beta-Bernoulli treatment estimator over 500k+ patient records  
-  → [Live App](https://medical-probability-dashboard.streamlit.app) · [Repo](https://github.com/RyanTellado/parivaar-dx)
+  → [Live App](https://medical-probability-dashboard.streamlit.app) · [Repo](https://github.com/RyanTellado/probabilistic-health-dashboard)
 
 - **Two live multiplayer games on Roblox — designed, built and operated solo**  
   **47k+ plays** across both. Server-authoritative Luau, headless test suites, crash-safe payment fulfilment, and funnel analytics in production
