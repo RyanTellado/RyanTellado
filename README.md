@@ -12,8 +12,8 @@ CS + Econ at Stanford. I build applied systems at the intersection of software, 
   → [Live App](https://medical-probability-dashboard.streamlit.app) · [Repo](https://github.com/RyanTellado/parivaar-dx)
 
 - **Two live multiplayer games on Roblox — designed, built and operated solo**  
-  47k+ plays across both. Server-authoritative Luau, headless test suites, crash-safe payment fulfilment, and funnel analytics in production
-  - **Huss Run Extreme** — 24-player tag game launched two days after the first commit; 33k+ plays. Lag-compensated tagging (client prediction + server rewind), maps, weapons and 68 UI screens authored as data and exported to Luau (~75k generated lines), 471 headless tests, six analytics funnels with cohort retention  
+  **47k+ plays** across both. Server-authoritative Luau, headless test suites, crash-safe payment fulfilment, and funnel analytics in production
+  - **Huss Run Extreme** — 24-player tag game** launched in two days**; **33k+ plays**. Lag-compensated tagging (client prediction + server rewind), maps, weapons and 68 UI screens authored as data and exported to Luau (~75k generated lines), 471 headless tests, six analytics funnels with cohort retention  
     → [Play](https://www.roblox.com/games/71842565259467) · [Showcase](https://github.com/RyanTellado/huss-run-extreme-showcase)
   - **Hunt For Rare Eggs** — 13k+ plays and a live Robux store in its first 16 days. ~96k lines of Luau, 600+ headless tests, and a mid-launch repositioning driven by player behavior  
     → [Play](https://www.roblox.com/games/128682066272955/Hunt-For-Rare-Eggs) · [Showcase + code](https://github.com/RyanTellado/hunt-for-rare-eggs-showcase)
